@@ -1,7 +1,5 @@
 package se.iths.java24;
 
-public class CurrencyConverter {
-
-
-
+public interface CurrencyConverter {
+    double convert(double amount);
 }
