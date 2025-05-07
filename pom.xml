@@ -21,9 +21,5 @@
         <module>service-impl-usd</module>
         <module>service-impl-eur</module>
         <module>service-runner</module>
-        <module>service-api</module>
-        <module>service-impl-usd</module>
-        <module>service-impl-eur</module>
-        <module>service-runner</module>
     </modules>
 </project>
