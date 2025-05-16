@@ -25,6 +25,6 @@ java -jar service-runner/target/service-runner-1.0-SNAPSHOT.jar
 ## How to run with Docker
 
 ```bash
-docker pull linushlmlnd1/spi-runner
-docker run -it linushlmlnd1/spi-runner
+docker pull linushlmlnd1/spi-runner:1.0
+docker run -it linushlmlnd1/spi-runner:1.0
 ```
