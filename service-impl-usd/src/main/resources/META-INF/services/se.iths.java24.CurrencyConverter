@@ -1,2 +1,1 @@
-se.iths.java24.UsdToSekConverter
-se.iths.java24.EurToSekConverter
+se.iths.java24.impl.usd.UsdToSekConverter

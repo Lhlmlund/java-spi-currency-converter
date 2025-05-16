@@ -1,4 +1,4 @@
-package se.iths.java24;
+package se.iths.runner;
 
 
 import se.iths.java24.CurrencyConverter;
